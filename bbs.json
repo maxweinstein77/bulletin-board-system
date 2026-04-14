@@ -1,0 +1,12 @@
+[
+  {
+    "username": "alice",
+    "message": "Hello, is anyone out there?",
+    "timestamp": "2026-04-14T09:03:32"
+  },
+  {
+    "username": "bob",
+    "message": "Hey Alice! Welcome to the board.",
+    "timestamp": "2026-04-14T09:03:42"
+  }
+]
